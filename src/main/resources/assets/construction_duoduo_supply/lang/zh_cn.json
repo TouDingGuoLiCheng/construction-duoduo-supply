@@ -1,0 +1,15 @@
+{
+  "gui.construction_duoduo_supply.hub_buy": "多多采购",
+  "gui.construction_duoduo_supply.title": "施工缺料采购",
+  "gui.construction_duoduo_supply.balance": "余额: %s",
+  "gui.construction_duoduo_supply.selected_total": "已选: %s",
+  "gui.construction_duoduo_supply.empty": "当前无缺料",
+  "gui.construction_duoduo_supply.need": "缺%d",
+  "gui.construction_duoduo_supply.price_line": "单价%d 小计%s",
+  "gui.construction_duoduo_supply.out_of_stock": "无货",
+  "gui.construction_duoduo_supply.select_all": "全选可购",
+  "gui.construction_duoduo_supply.confirm": "确认采购",
+  "gui.construction_duoduo_supply.cancel": "取消",
+  "message.construction_duoduo_supply.no_terminal": "无法打开终端采购",
+  "message.construction_duoduo_supply.purchase_done": "采购完成：%s 种 / %s 件，花费 %s；因余额停止 %s；掉落 %s；快递 %s"
+}

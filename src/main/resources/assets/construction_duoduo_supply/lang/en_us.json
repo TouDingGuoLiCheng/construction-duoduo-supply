@@ -1,0 +1,15 @@
+{
+  "gui.construction_duoduo_supply.hub_buy": "DuoDuo Buy",
+  "gui.construction_duoduo_supply.title": "Construction Supply Buy",
+  "gui.construction_duoduo_supply.balance": "Balance: %s",
+  "gui.construction_duoduo_supply.selected_total": "Selected: %s",
+  "gui.construction_duoduo_supply.empty": "No shortages",
+  "gui.construction_duoduo_supply.need": "Need %d",
+  "gui.construction_duoduo_supply.price_line": "%d ea / %s total",
+  "gui.construction_duoduo_supply.out_of_stock": "Out of stock",
+  "gui.construction_duoduo_supply.select_all": "Select all buyable",
+  "gui.construction_duoduo_supply.confirm": "Confirm",
+  "gui.construction_duoduo_supply.cancel": "Cancel",
+  "message.construction_duoduo_supply.no_terminal": "Cannot open terminal supply buy",
+  "message.construction_duoduo_supply.purchase_done": "Bought %s kinds / %s items for %s; stopped for coins %s; dropped %s; express %s"
+}
